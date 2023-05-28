@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed BAHRAOUI</h1>
 <h3 align="center">I am an aspiring Data Engineering student who possesses a deep interest in DataOps and cloud computing. Presently, I am pursuing my engineering degree in Data Engineering at the National Institute of Posts and Telecommunications (INPT).</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Everything** 🤣
 
 - 📫 How to reach me **mbahraoui06@gmail.com**
 
