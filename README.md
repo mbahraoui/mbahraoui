@@ -11,6 +11,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank"><img src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64d26ed75e39c4c591e01c3d_64c96a772785e6db2d21f850_java-logo-transparent-free-png.png" alt="Java"></a><a href="https://www.python.org/" target="_blank"><img src="python.png" alt="Python"> </a> 
+<p align="left"> <a href="https://www.java.com/" target="_blank"><img src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64d26ed75e39c4c591e01c3d_64c96a772785e6db2d21f850_java-logo-transparent-free-png.png" alt="Java" width="40" height="40"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"> </a> 
 
 </p>
